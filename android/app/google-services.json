@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413594977767",
+    "project_id": "services-c58ac",
+    "storage_bucket": "services-c58ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413594977767:android:5f59515f45231531e92942",
+        "android_client_info": {
+          "package_name": "com.ajayi.services_mo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANodEiZu3W6f8jPf2wb_KVrHhzymbclac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
